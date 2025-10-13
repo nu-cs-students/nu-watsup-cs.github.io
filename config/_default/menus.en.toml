@@ -1,0 +1,19 @@
+[[main]]
+name = 'Events'
+pageRef = '/events'
+weight = 20
+
+[[main]]
+name = 'Initiatives'
+pageRef = '/initiatives'
+weight = 30
+
+[[main]]
+name = 'Resources'
+pageRef = '/resources'
+weight = 40
+
+[[main]]
+name = 'About'
+pageRef = '/about'
+weight = 50

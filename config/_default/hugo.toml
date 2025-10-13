@@ -1,0 +1,17 @@
+baseURL = "https://watsup.cs.northwestern.edu/"
+languageCode = "en-us"
+enableEmoji = true
+
+# Theming
+theme = "blowfish"
+
+[params]
+homepage.layout = "card"
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
