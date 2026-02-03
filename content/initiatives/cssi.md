@@ -2,12 +2,7 @@
 draft = false
 
 title = "CSSI"
-description ="Computer Science Social Initiative"
-
-author = "Ettore M. G. Trainiti"
-content_authors = "Ettore M. G. Trainiti"
-
-date = "2024-06-18"
+description = "Computer Science Social Initiative"
 
 [info]
 email = "cssi@u.northwestern.edu"
