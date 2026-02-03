@@ -3,14 +3,6 @@ draft = false
 
 title = "CS++ Slack Workspace"
 description ="For all PhD students in the CS, CS+LS, CE, and TSB programs"
-
-author = "Ettore M. G. Trainiti"
-content_authors = "Ettore M. G. Trainiti"
-
-date = "2020-05-21"
-
-[info]
-website = "http://nucsphd.slack.com"
 +++
 
 This workspace is meant to be used by PhD students in extended CS programs.
