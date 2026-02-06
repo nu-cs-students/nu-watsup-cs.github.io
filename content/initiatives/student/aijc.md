@@ -11,6 +11,7 @@ date = "2020-06-02"
 
 [info]
 website = "https://aijournalclub.slack.com"
+members = []
 +++
 
 AI Journal Club is a graduate student reading group that meets weekly to talk about new and classic papers in the
