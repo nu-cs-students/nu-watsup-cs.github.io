@@ -11,7 +11,19 @@ date = "2023-06-29"
 
 [info]
 email = "gwic@northwestern.edu"
-members = []
+members = [
+      "Achi Mishra",
+      "Ayse Hunt",
+      "Charlotte Li",
+      "Jessica Jeng",
+      "Kristin Fasiang",
+      "Lily Ge",
+      "Maryam Azmandian",
+      "Melissa Chen",
+      "Rashna Kumar",
+      "Shubham Shahi",
+      "Yinmiao Li"
+]
 +++
 
  GWiC is intended to be a place for networking and advising between womxn and gender minority Ph.D. students,

@@ -11,7 +11,15 @@ date = "2024-06-18"
 
 [info]
 email = "cssi@u.northwestern.edu"
-members = []
+members = [
+    "Tommy McMichen",
+    "Lily Ge",
+    "Peter K. Chan",
+    "Alex Butler",
+    "Justina Wang",
+    "Jessica Jeng",
+    "Ziyang Guo"
+]
 +++
 
 CSSI has been founded in April 2020 to address the need of pushing community building efforts forward.

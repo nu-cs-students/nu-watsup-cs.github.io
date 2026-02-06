@@ -12,7 +12,15 @@ date = "2024-06-18"
 [info]
 email = "cspac@u.northwestern.edu"
 website = "https://cspac.cs.northwestern.edu"
-members = []
+members = [
+      "Chang Wang",
+      "Connie Chau",
+      "Jessica Jeng",
+      "Mandi Cai",
+      "Matthew Casey",
+      "Melissa Chen",
+      "Paul Zhang"
+]
 +++
 
 Founded in the fall of 2017, CSPAC is a PhD student organization representing all PhD students in the Computer
