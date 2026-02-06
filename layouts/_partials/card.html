@@ -23,11 +23,20 @@
         </p>
         {{ end }}
 
-        {{ if .who }}
+        {{ if .point_of_content }}
         <p class="card-text">
             Point of Contact:
-            {{ .who }}
+            {{ .point_of_content }}
         </p>
+        {{ end }}
+
+        {{ if .members }}
+        Members:
+        <ul>
+            {{ range .members }}
+            <li>{{ . }}</li>
+            {{ end }}
+        </ul>
         {{ end }}
 
         {{ if .website }}

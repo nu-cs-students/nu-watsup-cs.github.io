@@ -11,6 +11,7 @@ date = "2023-06-29"
 
 [info]
 email = "gwic@northwestern.edu"
+members = []
 +++
 
  GWiC is intended to be a place for networking and advising between womxn and gender minority Ph.D. students,

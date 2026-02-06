@@ -11,6 +11,7 @@ date = "2024-06-18"
 
 [info]
 email = "cssi@u.northwestern.edu"
+members = []
 +++
 
 CSSI has been founded in April 2020 to address the need of pushing community building efforts forward.

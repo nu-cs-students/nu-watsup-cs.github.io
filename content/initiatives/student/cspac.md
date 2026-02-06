@@ -12,6 +12,7 @@ date = "2024-06-18"
 [info]
 email = "cspac@u.northwestern.edu"
 website = "https://cspac.cs.northwestern.edu"
+members = []
 +++
 
 Founded in the fall of 2017, CSPAC is a PhD student organization representing all PhD students in the Computer
@@ -35,5 +36,5 @@ CSPAC hosts a student curated [wiki](https://github.com/nu-cspac/nu-cs/wiki)!
 
 ## Reach out
 
-Feel free to send us an <a href="mailto:cspac@u.northwestern.edu">email</a> with questions, comments, or
+Feel free to send us an [email](mailto:cspac@u.northwestern.edu) with questions, comments, or
       suggestions any time!
