@@ -30,8 +30,8 @@ pageRef = '/initiatives'
 weight = 30
 
 [[menus.main]]
-name = 'Resources'
-pageRef = '/resources'
+name = 'Wiki'
+pageRef = '/wiki'
 weight = 40
 
 [[menus.main]]
