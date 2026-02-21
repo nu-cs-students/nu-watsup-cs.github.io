@@ -17,7 +17,7 @@ email = "gwic@northwestern.edu"
       postdocs, research staff, and faculty.
 
 We have quarterly lunches and many other activities!
-[Subscribe to our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSfS44cpR5_7SpbL3GF2BZAgTFJRL9z0inekgJJsMbUr8eAusw/viewform) to hear about future events.
+[Subscribe to our mailing list](https://listserv.it.northwestern.edu/cgi-bin/wa.exe?SUBED1=GWIC&X=OE523F641944BF42505&Y) to hear about future events.
 
 This organization is open to all enrolled Northwestern graduate students. The benefits and services provided by
       Northwestern University's student groups are available to all students without regard to any category protected by
