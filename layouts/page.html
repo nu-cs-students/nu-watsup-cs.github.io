@@ -8,6 +8,10 @@
             {{with .Description }}
             <h4 class="text-secondary">{{ . }}</h4>
             {{end}}
+
+            <p class="text-sm"><a href="{{ .Site.Params.github }}/content/{{ .File.Path }}">Edit
+                    this page on GitHub!</a></p>
+
             <time datetime="{{ .Lastmod.Format `2006-01-02T15:04:05Z0700` | safeHTML }}">
                 Last Updated: {{ .Lastmod | time.Format ":date_long" }}
             </time>
