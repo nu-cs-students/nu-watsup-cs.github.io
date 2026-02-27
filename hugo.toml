@@ -12,6 +12,9 @@ theme = "hugo-bootstrap-theme"
 date = ["date", "publishDate", "lastmod"]
 lastmod = ["lastmod", ":fileModTime", ":default"]
 
+[params]
+github = "https://github.com/nu-cs-students/nu-watsup-cs.github.io/edit/main/content"
+
 # Main menu
 [menus]
 # [[menus.main]]
@@ -30,8 +33,8 @@ pageRef = '/initiatives'
 weight = 30
 
 [[menus.main]]
-name = 'Resources'
-pageRef = '/resources'
+name = 'Wiki'
+pageRef = '/wiki'
 weight = 40
 
 [[menus.main]]

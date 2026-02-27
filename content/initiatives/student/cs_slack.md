@@ -26,8 +26,8 @@ Through the appropriate slack channels, this space can serve multiple purposes:
 
 Community brings people together and additional value to your PhD experience, be part of it!
 
-### Are you not on this slack workspace yet?
+## Are you not on this slack workspace yet?
 
 Don't miss out! Shoot an email to one of the admins, they'll promptly send a Slack invite link to your Northwestern email account.
 
-### Maintained by CSPAC and CSSI
+## Maintained by CSPAC and CSSI

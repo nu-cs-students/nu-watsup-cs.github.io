@@ -37,11 +37,6 @@ The mission of the Computer Science PhD Advisory Council is to promote the well-
       We strive to elevate the voice and power of CSPhD students to address concerns that directly impact student life,
       including departmental policies and decisions.
 
-## Wiki
-
-CSPAC hosts a student curated [wiki](https://github.com/nu-cspac/nu-cs/wiki)!
-      Feel free to contribute to it with any information that might be useful for current and future students!
-
 ## Reach out
 
 Feel free to send us an [email](mailto:cspac@u.northwestern.edu) with questions, comments, or
