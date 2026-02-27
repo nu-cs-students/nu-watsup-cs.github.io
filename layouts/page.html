@@ -40,8 +40,9 @@
         {{ end }}
 
     </div>
-
-
+    {{ if eq .Section "wiki" }}
+    {{ partial "edit_link.html" . }}
+    {{ end }}
 </div>
 
 {{ end }}
