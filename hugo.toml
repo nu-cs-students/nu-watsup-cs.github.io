@@ -13,7 +13,7 @@ date = ["date", "publishDate", "lastmod"]
 lastmod = ["lastmod", ":fileModTime", ":default"]
 
 [params]
-github = "https://github.com/nu-cs-students/nu-watsup-cs.github.io/tree/main"
+github = "https://github.com/nu-cs-students/nu-watsup-cs.github.io/edit/main/content"
 
 # Main menu
 [menus]

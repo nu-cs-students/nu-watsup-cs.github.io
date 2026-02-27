@@ -17,7 +17,7 @@ There are 5 different possible qualifying exams that a CS PhD student can take:
 * Interfaces
 * Computer Engineering
 
-For specific details on each of these exams, refer to the [PhD handbook for your program](https://github.com/nu-cspac/nu-cs/wiki/PhD-Program-Manuals)
+For specific details on each of these exams, refer to the [PhD handbook for your program]({{< ref "wiki/program_manuals" >}})
 
 Notes and Hints:
 

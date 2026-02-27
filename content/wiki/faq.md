@@ -9,7 +9,7 @@ content_authors = ["Lukas Lazarek", "Nathan Greiner"]
 date = "2024-06-18"
 +++
 
-## *What’s a U-Pass?*
+## What’s a U-Pass?
 
 The Graduate School (TGS) and the Chicago Transit Authority provide the CTA University Pass (U-Pass) to full-time graduate students through the Activity Fee. The CTA U-Pass program uses fare cards called Ventra, a contactless payment system that serves as a U-Pass. Benefits of this system include:
 
@@ -23,7 +23,7 @@ The Graduate School (TGS) and the Chicago Transit Authority provide the CTA Univ
 
 - Personalized with your photo and name
 
-## *How do I get from O’Hare to Northwestern (or elsewhere in Chicago)?*
+## How do I get from O’Hare to Northwestern (or elsewhere in Chicago)?
 
 - [*Public Transport*](https://www.google.com/maps/dir/O'Hare,+Chicago,+IL/northwestern/@42.0019654,-87.81614,12z/am=t/data=!4m14!4m13!1m5!1m1!1s0x880fca0c24ab66f1:0x80202866a0816f8a!2m2!1d-87.8367209!2d41.9772281!1m5!1m1!1s0x880fd00b703e4c39:0x2c37b567fad56106!2m2!1d-87.675267!2d42.0564594!3e3): there are two options
 
@@ -55,7 +55,7 @@ The Graduate School (TGS) and the Chicago Transit Authority provide the CTA Univ
 
   - There’s a specific pickup location for rideshare, look for signs for TNC/rideshare or ask an airport employee.
 
-## *Living in Chicago vs. Evanston?*
+## Living in Chicago vs. Evanston?
 
 As a general rule, the closer an apartment is to campus (either the Evanston or Chicago campus), a tenant will pay more for less. Broadly, Evanston tends to be more expensive than the north side of Chicago, but things also get more expensive the closer you get to downtown Chicago. Most students live in Evanston or the north side of Chicago (areas like Rogers Park and Edgewater are popular).
 
@@ -67,53 +67,53 @@ Some students look for a roommate to help keep costs down, you look for other No
 
 For information on NU housing for graduate students, please refer to the [*Graduate Housing website*](https://www.northwestern.edu/living/housing-options/graduate-housing/). The on- campus housing application is available online, but requires a NetID login. If your NetID is not yet activated, please contact the housing office and request an application via email.
 
-## *Health Insurance ?*
+## Health Insurance ?
 
 NU requires all students to maintain health insurance while registered at the University. As of 2024, NU subsidizes all cost of the university health insurance plan for PhD students! During the time you are registered at the University, you are required to enroll in the [*Aetna/Northwestern plan*](https://www.aetnastudenthealth.com/en/school/812845/members/enroll-waive-coverage.html). You may waive enrollment by providing evidence that you have health insurance coverage that is comparable for the entire period of registration. International students holding a F1 or J1 visa may not waive the Aetna/Northwestern plan.
 
-## *Mental Health Wellness?*
+## Mental Health Wellness?
 
 Northwestern’s Health Services provides quality medical care to students on both the Chicago and Evanston campuses. All full-time students who register for three or four courses are eligible to use outpatient services. Northwestern’s [*Counseling and Psychological Services (CAPS)*](https://www.northwestern.edu/counseling/) serves as the primary mental health service at Northwestern with offices on both campuses.
 
-Northwestern students who are enrolled full-time have access to the Henry Crown Sports Pavillion, Northwestern’s main gym. Learn more on their [*website*](https://nurecreation.com/sports/2015/8/12/studentmembership.aspx?path=membership). During the pandemic they are trying out timeslots for you to go to the gym.
+Northwestern students who are enrolled full-time have access to the Henry Crown Sports Pavillion, Northwestern’s main gym. Learn more on their [website](https://nurecreation.com/sports/2015/8/12/studentmembership.aspx?path=membership). During the pandemic they are trying out timeslots for you to go to the gym.
 
-For more information we have a section on [*our wiki*](https://github.com/nu-cspac/nu-cs/wiki) dedicated to this topic, please check it out and let us know if it’s useful.
+For more information we have a section on [our wiki]({{< ref "wiki/mental_health" >}}) dedicated to this topic, please check it out and let us know if it’s useful.
 
-## *AccessibleNU?*
+## AccessibleNU?
 
-This office serves, supports and empowers Northwestern students with disabilities by ensuring equal access to fully participate in academic programming and all other facets of University life. AccessibleNU connects students with resources and services within the University to meet the unique requests of individuals in our population. Learn more on the [*website*](https://www.northwestern.edu/accessiblenu/)
+This office serves, supports and empowers Northwestern students with disabilities by ensuring equal access to fully participate in academic programming and all other facets of University life. AccessibleNU connects students with resources and services within the University to meet the unique requests of individuals in our population. Learn more on the [website](https://www.northwestern.edu/accessiblenu/)
 
-## *Child and Family Resources?*
+## Child and Family Resources?
 
-Northwestern supports the healthy integration of students’ personal, academic, and professional priorities and is committed to creating an accessible and inclusive environment for pregnant and parenting students. Learn more on the [*website*](https://www.tgs.northwestern.edu/services-support/family-resources/child-family-resources.html)
+Northwestern supports the healthy integration of students’ personal, academic, and professional priorities and is committed to creating an accessible and inclusive environment for pregnant and parenting students. Learn more on the [website](https://www.tgs.northwestern.edu/services-support/family-resources/child-family-resources.html)
 
-We also have a full section on [*our wiki*](https://github.com/nu-cspac/nu-cs/wiki/Parenting-resources-for-NU-students) dedicated to this topic, please check it out and let us know if it’s useful.
+We also have a [full section]({{< ref "wiki/parenting" >}}) dedicated to this topic, please check it out and let us know if it’s useful.
 
-## *English Language Programs ?*
+## English Language Programs ?
 
-International students who wish to improve their English language skills. Services are offered year-round, and include group language classes, one-on-one tutoring, and NativeAccentTM online speech training software. New PhD and MFA students may also receive intensive language support through the International Summer Institute and Integrated Academic Skills programs. Services are all offered free of charge, and are limited to students and employees of Northwestern University. For more information, contact <elp@northwestern.edu>, or visit the English Language Programs [*website*](https://www.elp.northwestern.edu/).
+International students who wish to improve their English language skills. Services are offered year-round, and include group language classes, one-on-one tutoring, and NativeAccentTM online speech training software. New PhD and MFA students may also receive intensive language support through the International Summer Institute and Integrated Academic Skills programs. Services are all offered free of charge, and are limited to students and employees of Northwestern University. For more information, contact <elp@northwestern.edu>, or visit the English Language Programs [website](https://www.elp.northwestern.edu/).
 
-## *Advisor/Advisee relationships*
+## Advisor/Advisee relationships
 
-We have a full section on [*our wiki*](https://github.com/nu-cspac/nu-cs/wiki) dedicated to this topic please check it out and let us know if it’s useful.
+We have a [full section]({{< ref "wiki/advisor" >}}) dedicated to this topic please check it out and let us know if it’s useful.
 
-## *CS Department Clubs and Groups?*
+## CS Department Clubs and Groups?
 
 Check out [*https://watsup.cs.northwestern.edu/initiatives.html*](https://watsup.cs.northwestern.edu/initiatives.html) to find out about many of the CS clubs and groups run by and for PhD students.
 
-## *Peer matching program?*
+## Peer matching program?
 
 This year, CSPAC is launching a program to match incoming students with peers in their second year and beyond. The goal of the program is to give you a friend who has been in your shoes for any questions -- or just to chat with. :) If you find your peer match is not working or you never heard from them follow up with us at [*cspac@u.northwestern.edu*](mailto:cspac@u.northwestern.edu) so we can fix that for you.
 
-## *Graduate manual?*
+## Graduate manual?
 
 The graduate manual is the main document describing the timeline and requirements of your degree, including things like course requirements, qualifying exams, and much more. Find the latest version of the CS manual [*on this page*](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/1/4730/files/2021/08/cs-phd-manual-2021-aug2.pdf). Additionally, the CS + LS manual is [here](https://docs.google.com/document/d/1rv4VJ2Vf6dJ834HrkDUOMYW_F_Q52Wdi5lUr6iG-grU/edit) and the TSB manual is [here](https://media.soc.northwestern.edu/socwp-aws/sites/48/2023/02/17110309/Final-TSB-Handbook-2022-2023.pdf). Finally, if you're on the Computer Engineering track, your manual is [here](https://www.mccormick.northwestern.edu/electrical-computer/documents/2022-23-ce-graduate-manual_edited-august-2022.pdf).
 
-## *Where can I find a map of campus? Where is building X?*
+## Where can I find a map of campus? Where is building X?
 
 [*Maps of campus are here*](https://www.northwestern.edu/campus-life/visiting-campus/maps.html) -- including a searchable map! Google maps does work on campus and is a great tool for navigating until you’re used to building locations.
 
-## *Are we going to have online options for courses, research, meeting peers, etc?*
+## Are we going to have online options for courses, research, meeting peers, etc?
 
 Yes!
 
@@ -123,17 +123,17 @@ Yes!
 
 - CSSI is working hard to make engaging social events both virtually and in-person over the coming year. These events are great opportunities to get to know your peers, so look out for announcements on Slack and via email.
 
-## *What if starting in the Fall isn’t going to work for me? Can I defer to a later quarter?*
+## What if starting in the Fall isn’t going to work for me? Can I defer to a later quarter?
 
 Yes, [*TGS enrollment policies*](https://www.tgs.northwestern.edu/admission/admission-decision-enrollment/) allow admitted students to defer enrollment to any quarter up to a year from the original admission quarter. If you want to do this, TGS says that you should accept their offer of admission and then contact the CS department DGS Konstantin Makarychev (email: <dgs-phd@cs.northwestern.edu>) who can help you organize the deferral with TGS.
 
-## *How does parking work on and around campus?*
+## How does parking work on and around campus?
 
 The [*NU parking webpage*](https://www.northwestern.edu/transportation-parking/evanston-parking/) is pretty comprehensive, but the high level summary is that you need to buy a permit to park on campus during working hours (8am-4pm), non-working hours are free (including all weekend), and parking off campus in Evanston requires permits in many places to check the signs carefully.
 
 There are also several city [*lots*](https://www.cityofevanston.org/home/showdocument?id=4797) and [*garages*](https://www.cityofevanston.org/home/showdocument?id=49602) near campus that can be used if you don’t drive to campus often enough to warrant buying a parking permit (e.g. by the Noyes CTA station, or near the south end of campus). Some streets near campus offer free 2 hour parking, but if you want to take advantage of this for longer than 2 hours you need to move your car to an entirely separate street or you will be ticketed.
 
-## *How do I register for classes? Where can I find information about courses and registration?*
+## How do I register for classes? Where can I find information about courses and registration?
 
 There is a specific window in which you can register for classes, typically from some date through the first week or two of classes. The [*NU academic calendar*](https://www.registrar.northwestern.edu/calendars/academic-calendars/index.html) typically has these dates, and you will also get a barrage of emails reminding you when registration opens each quarter.
 
@@ -145,7 +145,7 @@ The best place to find out what courses are being offered is the [*Course Listin
 
 Having registered in a class, you have until the “add/drop deadline” to drop the class without any record of having enrolled in it. After that deadline, dropping a class will be recorded in your transcript (though it doesn’t matter much if you need to do it).
 
-## *Is there a list of everything that I should know or do before the start of my first quarter? (from an administrative perspective)*
+## Is there a list of everything that I should know or do before the start of my first quarter? (from an administrative perspective)
 
 There doesn’t seem to be a master list anywhere but it seems like there really should be!
 
@@ -165,15 +165,15 @@ We can work on making one, perhaps with your help. For starters, here’s a poss
 
 - Read through the [*TGS PhD requirements*](https://www.tgs.northwestern.edu/academic-policies-procedures/policies/phd-degree-requirements.html) and take notes so you can track your progress
 
-- Check out the [*CSPAC wiki*](https://github.com/nu-cspac/nu-cs/wiki) and in particular the advising guides section
+- Check out this wiki :D and in particular the advising guides section
 
 - Attend orientation if you can!
 
-## *Do I have to TA in my first year?*
+## Do I have to TA in my first year?
 
 All TGS PhD students (you are one) are supported by TGS for their first year, so it’s not required. However, talk with your faculty advocate/advisor because they may recommend it even though it’s not required.
 
-## *What are the best places to get food on campus?*
+## What are the best places to get food on campus?
 
 There are a couple of popular options for food on campus:
 
@@ -195,7 +195,7 @@ There are a couple of popular options for food on campus:
 
 - Al’s Deli: a small deli by Noyes CTA station. Sandwiches apparently take a long time to make.
 
-## *Help! I’m in Mudd, it’s midnight, and I’m hungry.*
+## Help! I’m in Mudd, it’s midnight, and I’m hungry
 
 One of the main weaknesses of the campus is that there are no good late night food options. Your best options are:
 
@@ -203,19 +203,19 @@ One of the main weaknesses of the campus is that there are no good late night fo
 
 - Delivery (e.g. Domino’s or Grubhub/similar)
 
-## *Can I use the gym on Campus? Do I want to?*
+## Can I use the gym on Campus? Do I want to?
 
 Yes! The gym and most of its amenities are included with the $125 TGS activity fee we (pre-covid) pay each quarter. And the facilities are generally very nice. You can go to both the Henry Crown Sports Pavilion (right north of Mudd), or the lesser-known Blomquist Recreation Center on Foster (by the south end of campus). Henry Crown is much bigger and better equipped, including a large indoor pool; multiple weight, cardio, and group exercise rooms; indoor basketball, racquetball, squash, and tennis courts; locker rooms with saunas and free towels; and probably even more…
 
-## *Can I swim in the lake on campus?*
+## Can I swim in the lake on campus?
 
 Yes! There’s a small beach behind the Henry Crown sports center that’s free for NU students. That’s the only place on campus that we’re allowed to swim; check [*here*](https://nurecreation.com/facilities/northwestern-beach/11) for beach hours and conditions.
 
-## *Can we use those huge sports fields behind Kellogg?*
+## Can we use those huge sports fields behind Kellogg?
 
 Yes! They are technically designated for NU sports teams, but when there’s no team practice or game happening on them students often play pickup soccer and American football on those fields, especially in afternoons.
 
-## *Are there other sports fields we can use?*
+## Are there other sports fields we can use?
 
 [*Long field*](https://goo.gl/maps/yxtoByZXRNwbAtf19) is very close to the north end of campus. Students often play pickup sports there too.
 

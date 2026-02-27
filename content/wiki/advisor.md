@@ -22,8 +22,7 @@ Concretely, if you are a first year student, we suggest that you:
 2. Reach out to each one to discuss their research and if they are taking on students.
    - This will help you better understand if you want to work with them, and will make it clear from the beginning if they have the ability and willingness to take you as a student.
 3. Set up a series of independent studies to start doing research with each of the advisors (perhaps one independent study per quarter).
-4. Near the end of the first year, you should have an idea of which of the faculty you would work best with, and you can discuss with them about becoming your advisor(s).
-   - The page on [managing your advisor and what to expect from them](https://github.com/nu-cspac/nu-cs/wiki/Managing-your-advisor-and-what-to-expect-from-them) may be a useful resource as you try working with different faculty to gauge how well you work with them.
+4. Near the end of the first year, you should have an idea of which of the faculty you would work best with, and you can discuss with them about becoming your advisor(s), see below.
 
 One good way to learn about what faculty in the department are doing and start discussions with them is to take the Introduction to Graduate Studies course offered in the fall quarter every year.
 
@@ -73,7 +72,7 @@ In particular, professors can have wildly different advising styles, and student
 First, don't panic: you're not alone.
 
 Students often encounter difficulties with their advisors, especially because an advising relationship is quite different from most others.
-If you've tried [strategies for managing your advisor](https://github.com/nu-cspac/nu-cs/wiki/Managing-your-advisor-and-what-to-expect-from-them) and you've talked with them about the problems you're facing but it doesn't seem like those problems will be resolved, the community in the department can offer support and advice.
+If you've tried strategies for managing your advisor and talked with them about the problems you're facing, but it doesn't seem like those problems will be resolved, the community in the department can offer support and advice.
 
 Here is a list of things you can try to build an understanding of your situation and your options.
 
@@ -82,5 +81,5 @@ Here is a list of things you can try to build an understanding of your situation
 2. Reach out to a diverse set of faculty to learn about their experiences, get some perspective on your situation, and build relationships with other mentors in the university.
    - For instance, [Fabian](https://users.cs.northwestern.edu/~fabianb/) was previously DGS and still takes an active interest in the experience and well-being of students across the department.
 3. You may decide that it won't work out with your advisor, in which case you can switch advisors.
-   1. Meet with faculty to discuss research interests and openings for students. Consider doing independent studies with faculty that you are interested in working with; these are a great way to build connections and test the waters with different potential advisors. [We recommend the same thing to all first years when selecting advisors](https://github.com/nu-cspac/nu-cs/wiki/Picking-advisors).
+   1. Meet with faculty to discuss research interests and openings for students. Consider doing independent studies with faculty that you are interested in working with; these are a great way to build connections and test the waters with different potential advisors. We recommend the same thing to all first years when selecting advisors.
    2. Discuss with other students who have switched advisors about their experience to learn what you can expect. Feel free to ask about it on the [student slack channel](nucsphd.slack.com)!
