@@ -15,6 +15,10 @@ lastmod = ["lastmod", ":fileModTime", ":default"]
 [params]
 github = "https://github.com/nu-cs-students/nu-watsup-cs.github.io/edit/main/content"
 
+[params.options]
+bootStrapJs = true
+breadCrumb = true
+
 # Main menu
 [menus]
 # [[menus.main]]
