@@ -13,16 +13,10 @@ date = "2023-06-29"
 email = "gwic@northwestern.edu"
 members = [
       "Achi Mishra",
-      "Ayse Hunt",
       "Charlotte Li",
-      "Jessica Jeng",
       "Kristin Fasiang",
-      "Lily Ge",
-      "Maryam Azmandian",
-      "Melissa Chen",
-      "Rashna Kumar",
-      "Shubham Shahi",
-      "Yinmiao Li"
+      "Mora Labisi",
+      "Shubham Shahi"
 ]
 +++
 
