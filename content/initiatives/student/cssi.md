@@ -12,13 +12,13 @@ date = "2024-06-18"
 [info]
 email = "cssi@u.northwestern.edu"
 members = [
-    "Tommy McMichen",
-    "Lily Ge",
-    "Peter K. Chan",
-    "Alex Butler",
-    "Justina Wang",
-    "Jessica Jeng",
-    "Ziyang Guo"
+      "Alex Butler",
+      "Justina Wang",
+      "Maojiang Su",
+      "Maryam Azmandian",
+      "Peter K Chan",
+      "Yuchen Zhu",
+      "Ziyang Guo"
 ]
 +++
 

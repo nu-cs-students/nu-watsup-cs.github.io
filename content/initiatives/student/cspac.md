@@ -7,19 +7,22 @@ description ="Computer Science PhD Advisory Council"
 author = "Ettore M. G. Trainiti"
 content_authors = "Ettore M. G. Trainiti"
 
-date = "2024-06-18"
+date = "2026-06-01"
 
 [info]
 email = "cspac@u.northwestern.edu"
 website = "https://cspac.cs.northwestern.edu"
 members = [
+      "Alex Butler",
       "Chang Wang",
-      "Connie Chau",
-      "Jessica Jeng",
-      "Mandi Cai",
+      "Justina Wang",
+      "Kartik Joshi",
+      "Maojiang Su",
+      "Maryam Azmandian",
       "Matthew Casey",
-      "Melissa Chen",
-      "Paul Zhang"
+      "Xingchen Sha",
+      "Yuchen Zhu",
+      "Ziyang Guo"
 ]
 +++
 
