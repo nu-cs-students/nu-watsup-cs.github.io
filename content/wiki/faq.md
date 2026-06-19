@@ -57,15 +57,7 @@ The Graduate School (TGS) and the Chicago Transit Authority provide the CTA Univ
 
 ## Living in Chicago vs. Evanston?
 
-As a general rule, the closer an apartment is to campus (either the Evanston or Chicago campus), a tenant will pay more for less. Broadly, Evanston tends to be more expensive than the north side of Chicago, but things also get more expensive the closer you get to downtown Chicago. Most students live in Evanston or the north side of Chicago (areas like Rogers Park and Edgewater are popular).
-
-Depending on what type of transportation options you have, finding a place near public transport might also be a consideration. Fortunately the CTA is pretty extensive and the red/purple lines can take you directly to/from campus from most places on the north side of Chicago. In Evanston and near Loyola university (in Rogers Park and Edgewater) there is also the Intercampus shuttle. (Caveat: During the pandemic they are emphasizing that its purpose is not for commuting, there is a 15 person cap on it at all times, and you may end up needing to take CTA anyway). For more information about transportation in the area, click [*here*](http://www.northwestern.edu/offcampus/resources/getting-around/index.html).
-
-Some students look for a roommate to help keep costs down, you look for other Northwestern students who are looking for roommates or you can post your listing at the website below for FREE. This site is updated every weekday:
-
-[*http://www.northwestern.edu/offcampus/housing/find-housing/index.html*](http://www.northwestern.edu/offcampus/housing/find-housing/index.html)
-
-For information on NU housing for graduate students, please refer to the [*Graduate Housing website*](https://www.northwestern.edu/living/housing-options/graduate-housing/). The on- campus housing application is available online, but requires a NetID login. If your NetID is not yet activated, please contact the housing office and request an application via email.
+Check out the [housing page](../housing) of the wiki!
 
 ## Health Insurance ?
 
